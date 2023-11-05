@@ -1,0 +1,24 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+North America,ABW,Aruba,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+North America,AIA,Anguilla,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+North America,ANT,Netherlands Antilles,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+North America,ATG,Antigua and Barbuda,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+North America,BHS,Bahamas,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+North America,BRB,Barbados,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+North America,CuB,Cuba,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+North America,CYM,Cayman Islands,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+North America,DMA,Dominica,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+North America,DOM,Dominican Republic,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+North America,GLP,Guadeloupe,Caribbean,1705.0,,456000,77.0,3501.0,,Guadeloupe,Overseas Department of France,Jacques Chirac,919.0,GP
+North America,GRD,Grenada,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+North America,JAM,Jamaica,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
+North America,KNA,Saint Kitts and Nevis,Caribbean,261.0,1983.0,38000,70.7,299.0,,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064.0,KN
+North America,LCA,Saint Lucia,Caribbean,622.0,1979.0,154000,72.3,571.0,,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065.0,LC
+North America,MSR,Montserrat,Caribbean,102.0,,11000,78.0,109.0,,Montserrat,Dependent Territory of the uK,Elisabeth II,2697.0,MS
+North America,MTQ,Martinique,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+North America,PRI,Puerto Rico,Caribbean,8875.0,,3869000,75.6,34100.0,32100.0,Puerto Rico,Commonwealth of the uS,George W. Bush,2919.0,PR
+North America,TCA,Turks and Caicos Islands,Caribbean,430.0,,17000,73.3,96.0,,The Turks and Caicos Islands,Dependent Territory of the uK,Elisabeth II,3423.0,TC
+North America,TTO,Trinidad and Tobago,Caribbean,5130.0,1962.0,1295000,68.0,6232.0,5867.0,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336.0,TT
+North America,VCT,Saint Vincent and the Grenadines,Caribbean,388.0,1979.0,114000,72.3,285.0,,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066.0,VC
+North America,VGB,"Virgin Islands, British",Caribbean,151.0,,21000,75.4,612.0,573.0,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537.0,VG
+North America,VIR,"Virgin Islands, u.S.",Caribbean,347.0,,93000,78.1,0.0,,Virgin Islands of the united States,uS Territory,George W. Bush,4067.0,VI
